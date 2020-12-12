@@ -1,0 +1,23 @@
+{
+  "name": "aframeexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "aframe-watcher index.html"
+  },
+  "author": "marisha",
+  "license": "MIT",
+  "dependencies": {
+    "aframe": "^1.1.0",
+    "aframe-watcher": "^1.4.0"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
