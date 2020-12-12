@@ -14,10 +14,5 @@
     "aframe": "^1.1.0",
     "aframe-watcher": "^1.4.0"
   },
-  "devDependencies": {
-    "file-loader": "^6.2.0",
-    "webpack": "^5.10.1",
-    "webpack-cli": "^4.2.0",
-    "webpack-dev-server": "^3.11.0"
-  }
+  "devDependencies": {}
 }
